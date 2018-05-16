@@ -12,3 +12,5 @@ LazyData: true
 ByteCompile: true
 Suggests: 
     testthat
+URL: https://github.com/hadley/bizarro
+BugReports: https://github.com/hadley/bizarro/issues
